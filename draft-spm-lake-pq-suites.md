@@ -3,7 +3,7 @@ v: 3
 
 title: Post-Quantum Cipher Suites for EDHOC
 abbrev: PQ Suites for EDHOC
-docname: draft-spm-pq-suites-latest
+docname: draft-spm-lake-pq-suites-latest
 category: std
 submissiontype: IETF
 
